@@ -4,4 +4,4 @@
 # pasta_2: Contém relatório técnico em formato .docx e em .pdf
 # planilha: Contém planilha de cálculo em .xlsx
 # Links
-# Link de vídeo do YouTube para apresentação:
+# Link de vídeo do YouTube para apresentação: https://youtu.be/ru8dMHcNVVM
